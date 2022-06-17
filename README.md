@@ -1,2 +1,2 @@
-# dio-desafio-github
-Para o estudo das ferramentas Git/ GitHub e para realizar o desafio de projeto proposto pela DIO, foi criado este repositório.
+# Desafio de Projeto Git/GitHub da DIO
+Repositório criado para atender ao desafio de projeto do curso Santander Bootcamp Fullstack Developer pela Digital Innovation One.
